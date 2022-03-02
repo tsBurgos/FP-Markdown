@@ -1,2 +1,2 @@
-* [Home](\.README.md)
+* [Home](/README.md)
 * [Sobre](\.sobre.md)
